@@ -36,3 +36,15 @@ _Categoría_
 [web version](https://web.telegram.org/#/login)
 
 - **terminator** gestores de terminales, me gusta terminator
+
+- Firefox
+- Jetbrains Toolbox
+- Telegram (duh)
+- KeepassXC + SyncThing pa sincronizar la DB a mi nubecita personal
+- Filelight (pa borrar stuff cuando me empiezo a quedar sin espacio)
+- Terminator (para tener hartas terminales abiertas a la vez, idealmente debería aprender screen o tmux en cambio)
+- Zsh + OhMyZsh pa tener la terminal bien bonítida y funcional
+- Okular ❤️ (pa abrir PDFs y muchos otros formatos de documentos, en pestañas, ideal tener KDE pa esto eso si, sino Evince igual apaña)
+- Redshift (pa regular el azul de la pantalla automágicamente según el horario del día, así no duelen los ojos en la noche, aunque KDE ahora lo trae integrado)
+- ONLYOFFICE como alternativa a LibreOffice apaña bastante, sobretodo si quieres algo más parecido a MS Office
+- Spotify
