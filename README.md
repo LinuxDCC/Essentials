@@ -10,13 +10,29 @@ _Categoría_
 ## Categorías
 - Office
 - Diseño Gráfico
-- Sonido
-- Video
-- Bases de Datos
-- IDE's
-- Editores de texto
-- Video Conferencias
+- Reproductores de contenido Multimedia
+  - Sonido
+  - Video
+- Edición de contenido Multimedia
+ - Editor de Sonido
+ - Editor de Video
+- Comunicación
+- Desarrollo
+  - gestores de terminales
+  - Bases de Datos
+  - IDE's
+  - editores de texto
 - Otros
 
 
+## Programas
+- **keepass** para las contraseñas
+[web page](https://keepass.info/)
+[donwloads](https://keepass.info/download.html)
 
+- **telegram** mensajería, chat.
+[web page](https://telegram.org/)
+[desktop](https://desktop.telegram.org/)
+[web version](https://web.telegram.org/#/login)
+
+- **terminator** gestores de terminales, me gusta terminator
