@@ -48,3 +48,5 @@ _Categoría_
 - Redshift (pa regular el azul de la pantalla automágicamente según el horario del día, así no duelen los ojos en la noche, aunque KDE ahora lo trae integrado)
 - ONLYOFFICE como alternativa a LibreOffice apaña bastante, sobretodo si quieres algo más parecido a MS Office
 - Spotify
+- [WPS Office](http://linux.wps.com/) como alternativa a MS Office, como ventaja tiene que es *muy* compatible con MS Office, empíricamente ha demostrado ser rápido y es robusto. Como desventaja se tiene que no es Open Source y que es de tamaño considerable, puesto que trae la suite completa.
+- [Obsidian](https://obsidian.md/) para tomar notas en Markdown (el mismo lenguaje que estamos usando para escribir este archivo :D). Como ventaja tiene que permite organizar distintas carpetas, además de un previsualizador incorporado. Como desventaja tiene que no es Open Source :(
